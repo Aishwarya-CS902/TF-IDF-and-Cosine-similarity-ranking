@@ -6,7 +6,7 @@
 ### Overview:
 This project implements document retrieval techniques using TF-IDF (Term Frequency-Inverse Document Frequency) weighted rank and TF-IDF cosine similarity. It involves preprocessing text data, calculating document frequencies (DF), and computing TF-IDF scores for both document bodies and titles. The project evaluates document relevance using TF-IDF weighted rank and cosine similarity, providing rankings based on the input query.
 
-### Features:
+### Procedure:
 
 Combining all folders: Collects and integrates files from multiple folders for unified processing.
 
